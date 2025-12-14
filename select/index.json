@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アイドルはウーニャニャの件",
+  "base_artist": "ニャーKB with ツチノコパンダ",
+  "createdAt": "2025-12-14T09:10:02.829411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイドルはウーニャニャの件",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "has_synced": true,
+      "path": "select/01_アイドルはウーニャニャの件_ニャーKB_with_ツチノコパンダ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイドルはウーニャニャの件",
+      "artist": "ニャーKB with ツチノコパンダ",
+      "has_synced": false,
+      "path": "select/pl_01_アイドルはウーニャニャの件_ニャーKB_with_ツチノコパンダ.txt"
+    }
+  ]
+}
